@@ -1,0 +1,16 @@
+api.eselfmade.in
+shop.eselfmade.in
+user.eselfmade.in
+webmail.eselfmade.in
+www.eselfmade.in
+www.shop.eselfmade.in
+spl.eselfmade.in
+help.eselfmade.in
+app.eselfmade.in
+project.eselfmade.in
+desk.eselfmade.in
+people.eselfmade.in
+chat.eselfmade.in
+sadmin.eselfmade.in
+ns2.eselfmade.in
+ns1.eselfmade.in

@@ -1,0 +1,5 @@
+cpanel.nanba.com
+mail.nanba.com
+webdisk.nanba.com
+webmail.nanba.com
+www.nanba.com
