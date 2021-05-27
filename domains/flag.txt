@@ -1,2 +1,0 @@
-autodiscover.checkered.flag
-checkered.flag
